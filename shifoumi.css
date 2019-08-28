@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* Document CSS */
+
+h1{
+	font-family:Impact;
+	line-height: 0.3em;
+}
+/*Police des titres en h1 */
+h2{
+	 font-style: italic;
+   color:palegreen;
+	 }
+/*Police des tites en h2*/
+
+p{color:white;
+	font-size:1.5em;
+	text-align: center;
+}
+
+#message{
+	text-align:center;
+	font-style:oblique;
+	}
+	/*Caractéristiques de l'annonce lorsque que le joueur perd ou gagne */
+
+	#choixJoueur{
+    text-align:right;
+	size:auto;
+	}
+	/*Caractéristiques de l'annonce du choix du joueur*/
+
+	#choixOrdinateur{
+	text-align:left;
+	size:auto;
+	}
+	/*Caractéristiques de l'annonce du choix de l'ordinateur */
+
+	#ScoreUser{
+    text-align:right;
+	size:auto;
+	}
+
+	#ScoreOrdi{
+	text-align:left;
+	size:auto;
+	}
+	/*Caractéristiques des scores */
+
+
+	#rochetitre{
+    color:white;/*red;*/
+    font-size: 48px;
+		}
+		/*Couleurs des différents titres */
+
+	#papiertitre{
+		color:white;/*blue;*/
+    font-size: 48px;
+		}
+	    /*Couleurs des différents titres */
+
+	#ciseautitre{
+		color:white;/*green;*/
+    font-size: 48px;
+		}
+		/*Couleurs des différents titres */
+
+	#div1{
+      width:600px;
+	  height:25px;
+	  border:1px solid #11111;
+      background-color:red;
+	  margin: auto;
+	 }
+	 /*Barre de vie */
+
+	#divRadio{
+		opacity: 0.1;
+	}
+
+body{
+	background-image: url(background_grass.png);
+	text-align: center;
+	}
+	/*Fond d'écran */
