@@ -1,5 +1,5 @@
 # Formation Simplon - Projet : 
-> Réaliser un jeu en Javascript : **Jeu du "Chifoumi** V2
+> Réaliser un jeu en Javascript : **Jeu du "Chifoumi"** V2
 
 ### Contexte du projet : 
     Aucune contrainte particulière, vous êtes libres de choisir un jeu existant ou d'inventer le votre.
